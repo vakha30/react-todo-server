@@ -6,4 +6,4 @@ node_modules
 
 files
 static
-./config
+config/
